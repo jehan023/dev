@@ -240,6 +240,7 @@ a {
     .expertise-section-box {
       flex-grow: 1;
       max-width: 350px;
+
       border-style: solid;
       border-color: #a3a3a3;
       transition: background 0.3s, border 0.3s, border-radius 0.3s,
@@ -404,7 +405,6 @@ a {
     position: relative;
 
     .section-content {
-      // border: 1px solid green;
       padding: 15px;
       width: 100%;
     }
