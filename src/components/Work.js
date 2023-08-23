@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import Arrow from '../images/right-side-arrow.png';
 import data from '../data/projects-info.json';
-
 import ProjectCard from './ProjectCard';
 
 export default function Work() {
