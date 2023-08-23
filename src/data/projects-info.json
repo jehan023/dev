@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Sinag",
+        "type": "Web Development",
+        "desc": "<DESC>",
+        "logo": "LogoSinag",
+        "github": "https://github.com/jehan023/ProjectSinag",
+        "year": "2023",
+        "tech": ["React", "NodeJS", "Python"],
+        "demo": "https://www.projectsinag.com/"
+    },
+    {
+        "name": "Tribe",
+        "type": "Web Development",
+        "desc": "<DESC>",
+        "logo": "LogoTribe",
+        "github": "https://github.com/jehan023/Tribe-Online-Booking-System",
+        "year": "2022",
+        "tech": ["HTML", "CSS", "JS", "PHP", "MySQL"],
+        "demo": "https://tribetransport.000webhostapp.com/"
+    },
+    {
+        "name": "Galampon",
+        "type": "Mobile Development",
+        "desc": "<DESC>",
+        "logo": "LogoGalampon",
+        "github": "https://github.com/jehan023/GalAmpon-Project_App",
+        "year": "2021",
+        "tech": ["Java", "Firebase", "Android"],
+        "demo": "https://youtu.be/qpUZxmMWxic"
+    },
+    {
+        "name": "2048 Remake",
+        "type": "Game Development",
+        "desc": "<DESC>",
+        "logo": "Logo2048",
+        "github": "https://github.com/jehan023/2048_Remake",
+        "year": "2021",
+        "tech": ["C#", "Unity"],
+        "demo": "https://youtu.be/sfQWYOgrxvw"
+    },
+    {
+        "name": "BiliPC POS",
+        "type": "App Development",
+        "desc": "<DESC>",
+        "logo": "LogoBiliPC",
+        "github": "https://github.com/jehan023/BiliPC_POS_system",
+        "year": "<YEAR>",
+        "tech": ["C#", ".NET", "MongoDB"],
+        "demo": ""
+    },
+    {
+        "name": "OJT Portfolio",
+        "type": "Web Development",
+        "desc": "<DESC>",
+        "logo": "LogoOJT",
+        "github": "https://github.com/jehan023/ojt-portfolio",
+        "year": "2022",
+        "tech": ["React"],
+        "demo": "https://jehan023.github.io/ojt-portfolio/"
+    }
+]
