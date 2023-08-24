@@ -2,6 +2,7 @@ import { useEffect } from 'react';
 import Arrow from '../images/right-side-arrow.png';
 import data from '../data/projects-info.json';
 import ProjectCard from './ProjectCard';
+import SinagMockUp from '../images/SinagMockUp.gif';
 
 export default function Work() {
   const cards = (work) => {
@@ -36,6 +37,9 @@ export default function Work() {
         </div>
 
         <div className="section-content right prototype-section hidden">
+          <div className="prototype-image-wrapper">
+            <img src={SinagMockUp} alt='mock-up' className='prototype-image'/>
+          </div>
           <div className="section-space"></div>
           <div className="section-arrow">
             <img src={Arrow} alt="arrow" />
