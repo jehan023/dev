@@ -5,10 +5,10 @@ export default function Home() {
     <div className="home-container">
       <div className='background-overlay'>
         <nav className="nav-items">
-          <Link to="/" className="nav-item" smooth>// home</Link>
-          <Link to="#expertise" className="nav-item" smooth>// expertise</Link>
-          <Link to="#work" className="nav-item" smooth>// work</Link>
-          <Link to="#contact" className="nav-item" smooth>// contact</Link>
+          <Link to="/" className="nav-item" smooth>/home</Link>
+          <Link to="#expertise" className="nav-item" smooth>/expertise</Link>
+          <Link to="#work" className="nav-item" smooth>/work</Link>
+          <Link to="#contact" className="nav-item" smooth>/contact</Link>
         </nav>
         <div className='home-wrapper'>
           <div className="home-content">
